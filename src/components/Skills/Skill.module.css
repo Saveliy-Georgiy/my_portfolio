@@ -1,0 +1,50 @@
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 25%;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.picture {
+    height: 100px;
+    width: 100px;
+    display: flex;
+}
+
+.knowledge {
+    display: flex;
+}
+
+.borderOfDescription {
+    display: flex;
+    border: 2px blue solid;
+    width: 100%;
+   height: 40%;
+}
+.descriptionOfKnowledge  {
+    text-align: center;
+width: 100%;
+}
+
+
+/*
+
+.text {
+    padding: 5px;
+    background-color: #d8d8d8;
+}
+
+.listOfMySkills {
+    width: 100%;
+    height: 66%;
+    margin: auto;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}*/

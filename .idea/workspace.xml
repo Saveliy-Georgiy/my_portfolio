@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffd744c9-b80f-4a35-8cd0-4695955c1ada" name="Default Changelist" comment="Added containers">
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Menu.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Greeting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/Greeting.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/MyAvatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/MyPhoto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main/MyPhoto.module.css" afterDir="false" />
+    <list default="true" id="ffd744c9-b80f-4a35-8cd0-4695955c1ada" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Projects/Project.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Projects/Project.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Skills/Skill.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Skills/Skill.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Skills/Skills.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Main.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slogan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slogan/Slogan.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slogan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slogan/Slogan.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Greeting.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Greeting.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Greeting.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/MyPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/MyPhoto.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slogan/Slogan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slogan/Slogan.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slogan/Slogan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slogan/Slogan.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Projects" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -69,6 +68,8 @@
       <recent name="C:\Users\Savva\PhpstormProjects\my_portfolio\src\components\Contacts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Savva\PhpstormProjects\my_portfolio\src\components\Projects" />
+      <recent name="C:\Users\Savva\PhpstormProjects\my_portfolio\src\components\Skills" />
       <recent name="C:\Users\Savva\PhpstormProjects\my_portfolio\src\components\Main" />
       <recent name="C:\Users\Savva\PhpstormProjects\my_portfolio\src\components\Header" />
       <recent name="C:\Users\Savva\PhpstormProjects\my_portfolio\src" />
@@ -114,7 +115,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581507065909</updated>
-      <workItem from="1581507068233" duration="16533000" />
+      <workItem from="1581507068233" duration="16859000" />
+      <workItem from="1581764896854" duration="16000" />
+      <workItem from="1581764934034" duration="3000" />
+      <workItem from="1581764949562" duration="867000" />
+      <workItem from="1581932961447" duration="263000" />
+      <workItem from="1581933289984" duration="11758000" />
+      <workItem from="1582122402770" duration="18013000" />
     </task>
     <task id="LOCAL-00001" summary="Added .idea in gitignore">
       <created>1581507675945</created>
@@ -130,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581528983427</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added containers">
+      <created>1581537479523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581537479523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,42 +157,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added containers" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="0" key="CommitChangelistDialog2" timestamp="1581529862446">
+    <state x="436" y="101" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582123834625">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="324" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581529862446" />
-    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1581531702895">
+    <state x="436" y="101" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582123834625" />
+    <state x="324" y="0" key="CommitChangelistDialog2" timestamp="1581537478640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581531702895" />
+    <state x="324" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581537478640" />
+    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1582124600814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582124600814" />
     <state x="622" y="284" width="301" height="255" key="Github.ShareDialog" timestamp="1581507696086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="622" y="284" width="301" height="255" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1581507696086" />
-    <state width="1483" height="196" key="GridCell.Tab.0.bottom" timestamp="1581530448541">
+    <state width="1483" height="39" key="GridCell.Tab.0.bottom" timestamp="1582123818056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581530448541" />
-    <state width="1483" height="196" key="GridCell.Tab.0.center" timestamp="1581530448541">
+    <state width="1483" height="39" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582123818056" />
+    <state width="1483" height="39" key="GridCell.Tab.0.center" timestamp="1582123818056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581530448541" />
-    <state width="1483" height="196" key="GridCell.Tab.0.left" timestamp="1581530448541">
+    <state width="1483" height="39" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582123818056" />
+    <state width="1483" height="39" key="GridCell.Tab.0.left" timestamp="1582123818056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581530448541" />
-    <state width="1483" height="196" key="GridCell.Tab.0.right" timestamp="1581530448541">
+    <state width="1483" height="39" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582123818056" />
+    <state width="1483" height="39" key="GridCell.Tab.0.right" timestamp="1582123818056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581530448541" />
-    <state x="261" y="81" key="Vcs.Push.Dialog.v2" timestamp="1581528987777">
+    <state width="1483" height="39" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582123818056" />
+    <state x="261" y="81" key="Vcs.Push.Dialog.v2" timestamp="1582150828156">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="81" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581528987777" />
-    <state x="451" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1581535406519">
+    <state x="261" y="81" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582150828156" />
+    <state x="451" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582122957099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="451" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1581535406519" />
+    <state x="451" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1582122957099" />
     <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1581535207211">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

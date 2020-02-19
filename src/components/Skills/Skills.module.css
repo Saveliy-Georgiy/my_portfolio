@@ -1,4 +1,50 @@
 .skills {
     height: 100vh;
     background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+
+.mySkillsContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 80%;
+    width: 80%;
+    margin: auto;
+}
+
+.mySkills {
+    width: 100%;
+    height: 34%;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.text {
+    padding: 5px;
+    background-color: #d8d8d8;
+}
+
+.listOfMySkills {
+    width: 100%;
+    height: 66%;
+    margin: auto;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.picture1 {
+    background-color: #d8d8d8;
+}
+
+.picture2 {
+    background-color: #68de23;
+}
+
+.picture3 {
+    background-color: #1600de;
 }
