@@ -1,4 +1,49 @@
 .footer {
-    height: 50px;
+    height: 180px;
     background-color: #acdec7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myFooter{
+    width: 80%;
+    height: 80%;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.block {
+    width: 350px;
+    height: 50px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+}
+
+.text {
+    padding: 5px;
+    background-color: #d8d8d8;
+}
+
+.pictureSquare1 {
+    background-color: #1600de;
+    margin-right: 50px;
+}
+
+.pictureSquare2 {
+    background-color: #69696a;
+    margin-right: 50px;
+}
+
+.pictureSquare3 {
+    background-color: #de6fa4;
+    margin-right: 50px;
+}
+
+.pictureSquare4 {
+    background-color: #deca2c;
 }

@@ -1,7 +1,7 @@
 .my_photo {
+    height: 80%;
     display: flex;
-    width: 349px;
-    height: 473px;
-    background-color: #1600de;
+    width: 400px;
+    background-color: #d8d8d8;
 }
 

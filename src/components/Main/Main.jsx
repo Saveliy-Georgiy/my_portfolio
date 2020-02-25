@@ -8,7 +8,7 @@ function Main() {
     <div className={styles.main}>
       <div className={styles.container}>
         <Greeting />
-          <MyPhoto />
+        <MyPhoto />
       </div>
 
     </div>

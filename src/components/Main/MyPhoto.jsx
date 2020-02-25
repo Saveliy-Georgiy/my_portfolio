@@ -4,8 +4,8 @@ import MyAvatar from './MyAvatar.jpg'
 
 function MyPhoto() {
   return (
-    <div>
-        <img src={MyAvatar} alt="My photo" className={styles.my_photo}/>
+    <div className={styles.my_photo}>
+
     </div>
   );
 }
