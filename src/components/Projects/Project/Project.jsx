@@ -1,20 +1,13 @@
 import React from 'react';
 import styles from './Project.module.css';
-
-const Picture = (props) => {
-    return (
-        <div>
-            <button>Смотреть</button>
-        </div>
-    )
-};
+import Button from "../../Buttons/Button";
 
 function Project(props) {
     return (
 
         <div className={styles.container}>
             <div className={styles.picture + ' ' + props.picture}>
-                <Picture/>
+                <Button name="Смотреть"/>
             </div>
             <div className={styles.containerNameAndDescription}>
                 <div className={styles.marginForName}>

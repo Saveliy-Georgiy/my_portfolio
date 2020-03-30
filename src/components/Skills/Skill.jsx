@@ -1,18 +1,13 @@
 import React from 'react';
 import styles from './Skill.module.css';
-
-const Picture = (props) => {
-    return (
-<div></div>
-    )
-};
+import Icon from "../Icons/Icon";
 
 function Skill(props) {
     return (
 
         <div className={styles.container}>
             <div className={styles.picture + ' ' + props.picture}>
-                <Picture />
+                <Icon/>
             </div>
             <div className={styles.knowledge}>
                {props.knowledge}

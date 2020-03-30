@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Footer.module.css';
-import Square from "./Square";
+import Icon from "../Icons/Icon";
 
 function Footer() {
   return (
@@ -9,11 +9,11 @@ function Footer() {
           <div className={styles.text}>
             Бирюков Савелий-Георгий Юрьевич
           </div>
-          <div className={styles.block}>
-            <Square pictureSquare={styles.pictureSquare1}/>
-            <Square pictureSquare={styles.pictureSquare2}/>
-            <Square pictureSquare={styles.pictureSquare3}/>
-            <Square pictureSquare={styles.pictureSquare4}/>
+          <div className={styles.socialBlock}>
+            <Icon pictureSquare={styles.pictureSquare1}/>
+            <Icon pictureSquare={styles.pictureSquare2}/>
+            <Icon pictureSquare={styles.pictureSquare3}/>
+            <Icon pictureSquare={styles.pictureSquare4}/>
           </div>
           <div className={styles.text}>
             2020 Все права защищены

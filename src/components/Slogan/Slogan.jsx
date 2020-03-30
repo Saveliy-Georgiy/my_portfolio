@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './Slogan.module.css';
+import Button from "../Buttons/Button";
 
 function Slogan() {
     return (
@@ -8,7 +9,7 @@ function Slogan() {
                 <div className={styles.text}>
                     Рассматриваю варианты удаленной работы
                 </div>
-                <button>Нанять меня</button>
+                <Button name="Нанять меня"/>
             </div>
         </div>
     );

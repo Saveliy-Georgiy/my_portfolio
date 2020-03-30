@@ -18,7 +18,6 @@ function Skills() {
                           descriptionOfKnowledge = 'Описание знания Редакса' />
                     <Skill picture={styles.picture3} knowledge='JS'
                            descriptionOfKnowledge = 'Описание знания JS' />
-
                 </div>
             </div>
         </div>

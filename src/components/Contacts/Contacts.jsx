@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './Contacts.module.css';
+import Button from "../Buttons/Button";
 
 function Contacts() {
   return (
@@ -8,12 +9,13 @@ function Contacts() {
           <div className={styles.text}>
             Контакты
           </div>
-          <form className={styles.block}>
-              <p>&lt;input&gt;</p>
-              <p>&lt;input&gt;</p>
-              <p className={styles.text + ' ' + styles.textarea}>&lt;textarea&gt;</p>
+          <form className={styles.formWrapper}>
+              <input placeholder="Имя" type="text"/>
+              <input placeholder="e-mail" type="email"/>
+              <textarea className={styles.messageArea}>
+              </textarea>
           </form>
-          <button>Отправить</button>
+            <Button name="Отправить"/>
         </div>
     </div>
   );

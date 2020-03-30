@@ -1,7 +1,10 @@
 .my_photo {
-    height: 80%;
+    margin-left: 10px;
+    height: 300px;
     display: flex;
-    width: 400px;
+    width: 200px;
     background-color: #d8d8d8;
+    flex-wrap: nowrap;
+
 }
 
