@@ -4,7 +4,7 @@ import MyAvatar from './MyAvatar.jpg'
 
 function MyPhoto() {
   return (
-    <div >
+    <div className={styles.photoContainer}>
       <img className={styles.myPhoto} src={MyAvatar} alt="Моё фото"/>
     </div>
   );

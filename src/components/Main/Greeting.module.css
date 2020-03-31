@@ -57,9 +57,26 @@ h1 {
 }
 
 @media screen and (max-width: 887px) {
+    .greeting span:nth-child(2),
+    .greeting span:nth-child(2) span {
+        font-size: 35px;
+    }
+
+    .greeting h1 {
+        font-size: 22px;
+    }
+
+    .greeting span:nth-child(2) span:before {
+        height: 15px;
+    }
+
+    .greeting span:nth-child(2) span:nth-child(1):before {
+        width: 196px;
+    }
+
     .greeting span:nth-child(2) span:nth-child(2):before {
         right: 3px;
-        width: 230px;
+        width: 172px;
     }
 
     .greeting span:nth-child(2),
@@ -71,25 +88,12 @@ h1 {
 }
 
 @media screen and (max-width: 712px) {
-    .greeting span:nth-child(2),
-    .greeting span:nth-child(2) span {
-        font-size: 35px;
-    }
-
-    .greeting h1 {
-        font-size: 22px;
-    }
-
     .greeting span:nth-child(2) span:nth-child(1):before {
         width: 196px;
     }
 
     .greeting span:nth-child(2) span:nth-child(2):before {
         width: 172px;
-    }
-
-    .greeting span:nth-child(2) span:before {
-        height: 15px;
     }
 }
 
@@ -135,7 +139,7 @@ h1 {
     }
 
     .greeting span:nth-child(2) span:before {
-        height: 12px;
+        height: 11px;
     }
     .greeting span:nth-child(1) {
         font-size: 12px;
