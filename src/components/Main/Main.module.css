@@ -1,19 +1,24 @@
 .main {
     min-height: 100vh;
-    background-color: #deca2c;
+    background-color: #1f1f20;
     display: flex;
     justify-content: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 
 .container {
+    padding-top: 50px;
     margin: auto;
     width: 80%;
-    /*height: 80%;*/
-    border: 1px solid;
     display: flex;
-    flex-wrap: nowrap;
     justify-content: space-around;
     align-items: center;
     align-content: center;
+}
+
+@media screen and (max-width: 887px) {
+    .container {
+        flex-wrap: wrap;
+
+    }
 }

@@ -5,8 +5,11 @@ function Greeting() {
   return (
     <div className={styles.greeting}>
         <span>Привет!</span>
-        <span>Меня зовут Савелий-Георгий</span>
-        <span>Я front-end developer</span>
+        <span>Я
+            <span>&nbsp;Савелий-</span>
+                <span>Георгий</span>
+        </span>
+        <h1>front-end developer</h1>
     </div>
   );
 }

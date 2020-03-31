@@ -10,7 +10,6 @@ function Main() {
         <Greeting />
         <MyPhoto />
       </div>
-
     </div>
   );
 }
