@@ -1,6 +1,6 @@
 .footer {
     height: 180px;
-    background-color: #acdec7;
+    background-color: #252527;
     display: flex;
     justify-content: center;
     flex-wrap: nowrap;
@@ -9,17 +9,14 @@
 
 .myFooter{
     width: 80%;
-    border: 1px solid;
     display: flex;
     flex-direction: column;
     align-items: center;
     flex-wrap: nowrap;
-
 }
 
 .socialBlock {
     width: 500px;
-    border: 1px solid;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -27,8 +24,7 @@
 }
 
 .text {
-    padding: 5px;
-    background-color: #d8d8d8;
+    padding: 10px;
 }
 
 .pictureSquare1 {

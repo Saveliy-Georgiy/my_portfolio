@@ -1,33 +1,26 @@
 .contacts {
-    min-height: 100vh;
-    background-color: #de6fa4;
+    min-height: 80vh;
+    background-color: #1f1f20;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .myContacts {
     width: 80%;
-    border: 1px solid;
     display: flex;
-    flex-wrap: nowrap;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
 }
 
 .formWrapper {
     width: 500px;
+    padding: 10px;
     border: 1px solid;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: stretch;
-}
-
-.text {
-    padding: 5px;
-    background-color: #d8d8d8;
 }
 
 .messageArea {

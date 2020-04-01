@@ -3,7 +3,6 @@
     flex-direction: column;
     margin: 5px;
     width: 300px;
-    background-color: white;
     justify-content: space-between;
     align-items: center;
     flex-wrap: nowrap;
@@ -27,9 +26,9 @@
     width: 100%;
 }
 
-.descriptionOfKnowledge  {
+.descriptionOfKnowledge {
     text-align: center;
-width: 100%;
+    width: 100%;
 }
 
 @media screen and (max-width: 374px) {

@@ -1,38 +1,24 @@
 .projects {
     min-height: 100vh;
-    background-color: #68de23;
+    background-color: #1f1f20;
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
 }
 
-.mySkillsContainer {
+.myProjectsContainer {
     display: flex;
     justify-content: center;
     flex-direction: column;
     flex-wrap: nowrap;
     width: 80%;
-    margin: auto;
+    padding: 15px;
 }
 
-.mySkills {
-    width: 100%;
-    border: 1px solid;
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: flex-start;
-}
-
-.text {
-    padding: 5px;
-    background-color: #d8d8d8;
-}
-
-.listOfMySkills {
+.listOfMyProjects {
     width: 100%;
     margin: auto;
-    border: 1px solid;
+    padding: 10px;
     display: flex;
     flex-wrap: wrap-reverse;
     justify-content: center;

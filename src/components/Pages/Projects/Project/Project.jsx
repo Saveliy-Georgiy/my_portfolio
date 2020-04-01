@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Project.module.css';
-import Button from "../../Buttons/Button";
+import Button from "../../../Buttons/Button";
 
 function Project(props) {
     return (

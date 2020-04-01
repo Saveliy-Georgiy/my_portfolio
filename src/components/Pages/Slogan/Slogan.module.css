@@ -1,22 +1,15 @@
 .slogan {
-    height: 250px;
-    background-color: #216ade;
+    height: 50vh;
+    background-color: #252527;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .mySlogan {
     width: 80%;
     height: 80%;
-    border: 1px solid;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-}
-
-.text {
-    padding: 5px;
-    background-color: #d8d8d8;
 }

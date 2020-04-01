@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './Main.module.css';
-import Greeting from "./Greeting";
-import MyPhoto from "./MyPhoto";
+import Greeting from "./Greeting/Greeting";
+import MyPhoto from "./MyPhoto/MyPhoto";
 
 function Main() {
   return (
