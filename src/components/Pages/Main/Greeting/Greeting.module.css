@@ -45,7 +45,7 @@ h1 {
     margin: 0;
 }
 
-@media screen and (max-width: 1172px) {
+@media screen and (max-width: 1104px) {
     .greeting span:nth-child(2) span:nth-child(1):before {
         width: 262px;
         right: 4px;
@@ -135,7 +135,7 @@ h1 {
     }
 
     .greeting span:nth-child(2) span:nth-child(2):before {
-        width: 117px;
+        width: 118px;
     }
 
     .greeting span:nth-child(2) span:before {
