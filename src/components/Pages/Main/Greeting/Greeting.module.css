@@ -79,11 +79,11 @@ h1 {
         width: 172px;
     }
 
+    .greeting span:nth-child(1),
     .greeting span:nth-child(2),
     .greeting span:nth-child(2) span,
     .greeting h1 {
-        display: flex;
-        justify-content: center;
+        text-align: center;
     }
 }
 
