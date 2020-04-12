@@ -6,8 +6,8 @@ function Skill(props) {
     return (
 
         <div className={styles.container}>
-            <div className={styles.picture + ' ' + props.picture}>
-                <Icon/>
+            <div>
+                <Icon className={styles.picture} picture={props.picture}/>
             </div>
             <div className={styles.knowledge}>
                {props.knowledge}

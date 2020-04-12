@@ -3,7 +3,8 @@ import styles from './Icon.module.css';
 
 function Icon(props) {
   return (
-    <div className={styles.square + ' ' + props.pictureSquare}>
+    <div>
+      <img className={styles.square} src={props.picture}/>
     </div>
   );
 }
