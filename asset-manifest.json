@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.b0946695.chunk.css",
-    "main.js": "/my_portfolio/static/js/main.d7368c37.chunk.js",
-    "main.js.map": "/my_portfolio/static/js/main.d7368c37.chunk.js.map",
+    "main.css": "/my_portfolio/static/css/main.f4b8b10e.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.564b5d0d.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.564b5d0d.chunk.js.map",
     "runtime-main.js": "/my_portfolio/static/js/runtime-main.b6eebb5d.js",
     "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.b6eebb5d.js.map",
-    "static/js/2.e62de5e1.chunk.js": "/my_portfolio/static/js/2.e62de5e1.chunk.js",
-    "static/js/2.e62de5e1.chunk.js.map": "/my_portfolio/static/js/2.e62de5e1.chunk.js.map",
+    "static/js/2.9666e428.chunk.js": "/my_portfolio/static/js/2.9666e428.chunk.js",
+    "static/js/2.9666e428.chunk.js.map": "/my_portfolio/static/js/2.9666e428.chunk.js.map",
     "index.html": "/my_portfolio/index.html",
-    "precache-manifest.cdda6caa2e26f502ba8c5bbc6ca62fc1.js": "/my_portfolio/precache-manifest.cdda6caa2e26f502ba8c5bbc6ca62fc1.js",
+    "precache-manifest.e2533671de55c2d020517bb8ecf3f391.js": "/my_portfolio/precache-manifest.e2533671de55c2d020517bb8ecf3f391.js",
     "service-worker.js": "/my_portfolio/service-worker.js",
-    "static/css/main.b0946695.chunk.css.map": "/my_portfolio/static/css/main.b0946695.chunk.css.map",
-    "static/js/2.e62de5e1.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.e62de5e1.chunk.js.LICENSE.txt",
-    "static/media/MyAvatar.jpg": "/my_portfolio/static/media/MyAvatar.71889b9c.jpg"
+    "static/css/main.f4b8b10e.chunk.css.map": "/my_portfolio/static/css/main.f4b8b10e.chunk.css.map",
+    "static/js/2.9666e428.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.9666e428.chunk.js.LICENSE.txt",
+    "static/media/JS.png": "/my_portfolio/static/media/JS.bd206844.png",
+    "static/media/MyAvatar.jpg": "/my_portfolio/static/media/MyAvatar.71889b9c.jpg",
+    "static/media/reactjs.png": "/my_portfolio/static/media/reactjs.82a318cc.png",
+    "static/media/redux.png": "/my_portfolio/static/media/redux.1535aa30.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b6eebb5d.js",
-    "static/js/2.e62de5e1.chunk.js",
-    "static/css/main.b0946695.chunk.css",
-    "static/js/main.d7368c37.chunk.js"
+    "static/js/2.9666e428.chunk.js",
+    "static/css/main.f4b8b10e.chunk.css",
+    "static/js/main.564b5d0d.chunk.js"
   ]
 }
