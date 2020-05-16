@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.f4b8b10e.chunk.css",
-    "main.js": "/my_portfolio/static/js/main.564b5d0d.chunk.js",
-    "main.js.map": "/my_portfolio/static/js/main.564b5d0d.chunk.js.map",
+    "main.css": "/my_portfolio/static/css/main.62b357a4.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.4c1494e5.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.4c1494e5.chunk.js.map",
     "runtime-main.js": "/my_portfolio/static/js/runtime-main.b6eebb5d.js",
     "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.b6eebb5d.js.map",
-    "static/js/2.9666e428.chunk.js": "/my_portfolio/static/js/2.9666e428.chunk.js",
-    "static/js/2.9666e428.chunk.js.map": "/my_portfolio/static/js/2.9666e428.chunk.js.map",
+    "static/js/2.db450aac.chunk.js": "/my_portfolio/static/js/2.db450aac.chunk.js",
+    "static/js/2.db450aac.chunk.js.map": "/my_portfolio/static/js/2.db450aac.chunk.js.map",
     "index.html": "/my_portfolio/index.html",
-    "precache-manifest.e2533671de55c2d020517bb8ecf3f391.js": "/my_portfolio/precache-manifest.e2533671de55c2d020517bb8ecf3f391.js",
+    "precache-manifest.08778a3d399322bf8d72c67a2c20ca70.js": "/my_portfolio/precache-manifest.08778a3d399322bf8d72c67a2c20ca70.js",
     "service-worker.js": "/my_portfolio/service-worker.js",
-    "static/css/main.f4b8b10e.chunk.css.map": "/my_portfolio/static/css/main.f4b8b10e.chunk.css.map",
-    "static/js/2.9666e428.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.9666e428.chunk.js.LICENSE.txt",
+    "static/css/main.62b357a4.chunk.css.map": "/my_portfolio/static/css/main.62b357a4.chunk.css.map",
+    "static/js/2.db450aac.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.db450aac.chunk.js.LICENSE.txt",
     "static/media/JS.png": "/my_portfolio/static/media/JS.bd206844.png",
     "static/media/MyAvatar.jpg": "/my_portfolio/static/media/MyAvatar.71889b9c.jpg",
+    "static/media/Projects.module.css": "/my_portfolio/static/media/social_network.6528eaf4.PNG",
     "static/media/reactjs.png": "/my_portfolio/static/media/reactjs.82a318cc.png",
-    "static/media/redux.png": "/my_portfolio/static/media/redux.1535aa30.png"
+    "static/media/redux.png": "/my_portfolio/static/media/redux.1535aa30.png",
+    "static/media/viber.svg": "/my_portfolio/static/media/viber.5fcb9b74.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b6eebb5d.js",
-    "static/js/2.9666e428.chunk.js",
-    "static/css/main.f4b8b10e.chunk.css",
-    "static/js/main.564b5d0d.chunk.js"
+    "static/js/2.db450aac.chunk.js",
+    "static/css/main.62b357a4.chunk.css",
+    "static/js/main.4c1494e5.chunk.js"
   ]
 }
