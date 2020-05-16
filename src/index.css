@@ -18,3 +18,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  outline: none;
+  cursor: pointer;
+}

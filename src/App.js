@@ -13,7 +13,7 @@ function App() {
         <div className="App">
             <div className="portfolio">
                 <Header />
-                <Main />
+               <Main />
                 <Skills />
                 <Projects />
                 <Slogan />
@@ -25,3 +25,29 @@ function App() {
 }
 
 export default App;
+
+{/*
+<BrowserRouter>
+    <div className="app-wrapper">
+        <Header/>
+        <Navbar/>
+        <div className="app-wrapper-content">
+             <Route path='/dialogs' component={Dialogs}/>
+            <Route path="/dialogs"
+                   render={() => <DialogsContainer />}/>
+
+            <Route path="/profile"
+                   render={() => <Profile />}/>
+
+            <Route path="/users"
+                   render={() => <UsersContainer />}/>
+
+            <Route path="/news" component={News}/>
+            <Route path="/music" component={Music}/>
+            <Route path="/settings" component={Settings}/>
+
+        </div>
+
+    </div>
+</BrowserRouter>
+*/}

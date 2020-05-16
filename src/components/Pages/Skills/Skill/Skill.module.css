@@ -19,11 +19,11 @@
 .borderOfDescription {
     display: flex;
     flex-wrap: nowrap;
-    border: 2px blue solid;
     width: 100%;
 }
 
 .descriptionOfKnowledge {
+    padding-top: 10px;
     text-align: center;
     width: 100%;
 }

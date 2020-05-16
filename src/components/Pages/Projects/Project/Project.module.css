@@ -1,43 +1,37 @@
 .container {
     display: flex;
     flex-direction: column;
-    margin: 5px;
-    width: 300px;
+    margin: 20px;
+    width: 320px;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 .picture {
     height: 350px;
-    width: 300px;
+    width: 320px;
     display: flex;
     flex-wrap: wrap-reverse;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .containerNameAndDescription {
     display: flex;
     flex-direction: column;
-    width: 100%;
     flex-wrap: nowrap;
-    background-color: white;
-}
-
-.marginForName {
-    margin-top: 10px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 .name {
-    margin-left: 30px;
-    background-color: #d8d8d8;
+    margin: 15px 0 0 15px;
 }
 
 .description {
-    width: 80%;
-    margin-left: 30px;
-    margin-top: 5px;
-    background-color: #d8d8d8;
+    margin: 0 0 15px 15px;
 }
 
 @media screen and (max-width: 374px) {

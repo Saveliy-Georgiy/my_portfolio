@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Skill.module.css';
-import Icon from "../../../Icons/Icon";
+import Icon from "../../../../Icons/Icon";
 
 function Skill(props) {
     return (

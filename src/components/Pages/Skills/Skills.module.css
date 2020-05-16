@@ -12,6 +12,8 @@
     align-items: center;
     flex-direction: column;
     width: 80%;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .listOfMySkills {
@@ -20,16 +22,4 @@
     display: flex;
     flex-wrap: wrap-reverse;
     justify-content: center;
-}
-
-.picture1 {
-    background-color: #d8d8d8;
-}
-
-.picture2 {
-    background-color: #68de23;
-}
-
-.picture3 {
-    background-color: #1600de;
 }

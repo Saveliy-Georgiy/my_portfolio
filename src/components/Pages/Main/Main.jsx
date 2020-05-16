@@ -5,7 +5,7 @@ import MyPhoto from "./MyPhoto/MyPhoto";
 
 function Main() {
   return (
-    <div className={styles.main}>
+    <div className={styles.main} id="main">
       <div className={styles.container}>
         <Greeting />
         <MyPhoto />

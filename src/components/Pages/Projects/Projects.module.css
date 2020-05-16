@@ -12,7 +12,8 @@
     flex-direction: column;
     flex-wrap: nowrap;
     width: 80%;
-    padding: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .listOfMyProjects {
@@ -21,18 +22,39 @@
     display: flex;
     flex-wrap: wrap-reverse;
     justify-content: center;
+    position: relative;
+}
+
+.backgroundPosition {
+    background-size: cover;
+    background-position: center;
+}
+
+.backgroundPosition:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    height: 350px;
+    opacity: 0.4;
 }
 
 .picture1 {
-    background-color: #d8d8d8;
+    background-image: url("../../../BGC for Projects/social_network.PNG");
+}
+
+.picture1:before {
+
 }
 
 .picture2 {
-    background-color: #d8d8d8;
+    background-image: url("../../../BGC for Projects/counter.PNG");
 }
 
 .picture3 {
-    background-color: #d8d8d8;
+    background-image: url("../../../BGC for Projects/practice.PNG");
 }
 
 
