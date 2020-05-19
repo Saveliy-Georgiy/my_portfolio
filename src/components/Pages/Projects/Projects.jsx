@@ -9,7 +9,7 @@ function Projects() {
             <div className={styles.myProjectsContainer}>
                <H2 name="Проекты"/>
                 <div className={styles.listOfMyProjects}>
-                    <Project picture={styles.picture1 + ' ' + styles.backgroundPosition} name='Социальная сеть' description='Описание соц сети'/>
+                    <Project picture={styles.picture1 + ' ' + styles.backgroundPosition} name='Социальная сеть' description='Описание соц сети Описание соц сети Описание соц сети Описание соц сети'/>
                     <Project picture={styles.picture2 + ' ' + styles.backgroundPosition} name='Счетчик' description='Описание второго проекта'/>
                     <Project picture={styles.picture3 + ' ' + styles.backgroundPosition} name='Практическая страница' description='Описание третьего проекта'/>
                 </div>
